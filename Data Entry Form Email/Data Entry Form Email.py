@@ -81,6 +81,8 @@ def submit_form():
 
 window = Tk()
 
+window.title("DATA ENTRY FORM")
+
 window.geometry("650x350")
 window.configure(bg="#FFFFFF")
 
