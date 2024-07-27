@@ -9,7 +9,7 @@ Project Link:
 
 [Email Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
 
-![Image](https://drive.google.com/file/d/1qp9-w_HliSNf4wqfjPRGdBpE9E3fTUb7/view?usp=sharing)
+![Form Data Entry Email](https://github.com/user-attachments/assets/db3182ad-dfad-45ab-86ab-c1273d026495)
 
 ---
 **Address Data Entry Form**
@@ -18,7 +18,7 @@ Project Link:
 
 [Address Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Address.py)
 
-![Image](https://drive.google.com/file/d/10rdIbhXoIDLaFRQJAjWSMWjdvqM4Aqsz/view?usp=sharing)
+![Form Data Entry Addres](https://github.com/user-attachments/assets/9a4b0f01-805d-4e54-a5a1-34fa8bc40b59)
 
 ---
 **Course Data Entry Form**
@@ -27,4 +27,9 @@ Project Link:
 
 [Course Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Course.py)
 
-![Image](https://drive.google.com/file/d/1j3d7f00-NbOdrLX43JgPT0MjZ5xUv9Yp/view?usp=sharing)
+![Form Data Entry Course](https://github.com/user-attachments/assets/4289ee55-8d8b-4671-8fde-21d84ac3ece5)
+
+
+
+
+
