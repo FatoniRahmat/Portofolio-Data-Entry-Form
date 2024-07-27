@@ -9,7 +9,9 @@ Project Link:
 
 [Email Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
 
-![Form Data Entry Email](https://github.com/user-attachments/assets/db3182ad-dfad-45ab-86ab-c1273d026495)
+![Form Data Entry Email](https://github.com/user-attachments/assets/28014409-2a04-4dbe-b4df-226aa5509fe1)
+
+
 
 ---
 **Address Data Entry Form**
