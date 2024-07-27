@@ -109,7 +109,7 @@ canvas.create_text(
     138.0,
     25.0,
     anchor="nw",
-    text="Conference Registration Form",
+    text="Registration Form",
     fill="#000000",
     font=("Inter Bold", 32 * -1),
 )
