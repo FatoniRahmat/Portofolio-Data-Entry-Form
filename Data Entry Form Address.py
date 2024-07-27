@@ -65,12 +65,6 @@ root.geometry('800x400+300+200')
 root.resizable(True,True)
 root.configure(bg="#326273")
 
-
-#icon
-icon_image=PhotoImage(file='mufasa.png')
-root.iconphoto(False, icon_image)
-
-
 #heading
 Label(root,text="Please fill out this entery form: ",font="arial 13",bg="#326273",fg="#fff").place(x=20,y=20)
 
