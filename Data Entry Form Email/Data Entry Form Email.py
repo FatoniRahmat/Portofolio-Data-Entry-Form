@@ -4,6 +4,7 @@ import openpyxl
 import re
 import sys
 
+
 # Determine if the script is running in a PyInstaller bundle
 if getattr(sys, "frozen", False):
     OUTPUT_PATH = Path.cwd()
