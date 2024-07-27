@@ -3,13 +3,13 @@
 Hi! My name is *Nur Fajri Fatoni Rahmat*, just called me Toni. Here is my *Portfolio as Data Entry*, i made a form to input data to make it easier please check it out!
 
 ---
-**Email Data Entry Form**
+**Registration Data Entry Form**
 
 Project Link:
 
-[Email Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
+[Registration Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/tree/main/Data%20Entry%20Form%20Email)
 
-![Form Data Entry Email](https://github.com/user-attachments/assets/28014409-2a04-4dbe-b4df-226aa5509fe1)
+![Form Data Entry Registration](https://github.com/user-attachments/assets/486354f2-e216-47ae-bdc4-8367c0a457c3)
 
 
 
@@ -21,6 +21,8 @@ Project Link:
 [Address Data Entry Form](https://github.com/FatoniRahmat/Portofolio-Data-Entry-Form-in-Python/blob/main/Data%20Entry%20Form%20Address.py)
 
 ![Form Data Entry Addres](https://github.com/user-attachments/assets/9a4b0f01-805d-4e54-a5a1-34fa8bc40b59)
+
+
 
 ---
 **Course Data Entry Form**
